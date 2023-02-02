@@ -2,7 +2,7 @@
 - 👀 I’m interested in PYTHON development
 - 🌱 I’m currently learning PYTHON and ANSIBLE
 - 💞️ I’m looking to collaborate on any project which can help me build my knowledge
-- 📫 How to reach me at vvr.ashwin@gmail.com
+- 📫 Can to reach me at vvr.ashwin@gmail.com
 
 <!---
 ashwinvarapula/ashwinvarapula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
