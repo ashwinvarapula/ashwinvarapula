@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwinvarapula
 - 👀 I’m interested in PYTHON development
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning PYTHON and ANSIBLE
 - 💞️ I’m looking to collaborate on any project which can help me build my knowledge
 - 📫 How to reach me at vvr.ashwin@gmail.com
 
